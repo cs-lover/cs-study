@@ -69,6 +69,8 @@
 * Throwable & Error & Exception
 * equals() & hashcode()
 * Checked Exception vs Unchecked Exception
+* Try With Resouces
+* JDBC
 * JVM 메모리 구조
 * GC
 * Thread & Synchronized & Thread Safe
